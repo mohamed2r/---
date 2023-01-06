@@ -1,0 +1,138 @@
+
+
+body{
+    background-color: rgb(241, 241, 241);
+}
+/* صورة فيسبوك */
+.imgfac{
+    width: 310px;
+    height: 310px;
+    margin:175px 0 0 65% ;
+}
+/* يمنحك فيس بوك */
+.par1{
+    direction: rtl;
+    font-size: 29px;
+    margin-top: -209px;
+    margin-right: 193px;
+} 
+/* ديف الباسورد والجيميل وكلمه السر وهل نسيت كلمه السر */
+.cont{
+    width: 390px;
+    height: 350px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 180px;
+    margin-top:-230px ;
+    border-radius: 10px;
+    box-shadow:3px 3px 4px 4px  rgb(228, 227, 227);
+}
+ /* يوزر جيميل */
+.user{
+    display: inline-block;
+    margin-top: 11px;
+    height:50px ;
+    width: 328px;
+    margin-left:13px; 
+    border-radius:6px #ccc;
+    padding-right:30px ;
+    direction: rtl;
+    font-size: 18px;
+    border: 1px ridge #ccc;
+    border-left: 1px ridge #ccc;
+    border-top:1px ridge #ccc ;
+    border-radius: 6px;
+    }
+    
+     /*كلمه السر   */
+    .pas{
+        display: inline-block;
+        margin-top: 11px;
+        height:50px ;
+        width: 328px;
+        margin-left:13px; 
+        border: 1px ridge #ccc;
+        padding-right:30px ;
+        direction: rtl;
+        font-size: 18px;
+        border-radius: 6px;
+        
+    }
+    
+    /* زر تسجيل الدخول  */
+    .log{
+        display: inline-block;
+        background-color:#1A78F4;
+        height: 55px;
+        width:363px;
+        border-radius: 7px;
+        border-color: #3474ff;
+        color: rgb(255, 255, 255);
+        margin-left: 13px;
+        margin-top: 17px;
+        font-size: 21px;
+        cursor: pointer;
+    }
+    .cont .log:hover{
+        background-color: #267ee2;
+    }
+    /*زر هل نسيت كلمة السر*/
+    .for{
+        text-decoration: none;
+        color:#3474ff;
+        margin-top: 140px;
+        margin-left:139px ;
+    }
+    .cont .for:hover{
+        
+        text-decoration: double;
+        border-bottom:1px solid #3474ff ;
+
+
+
+ }
+ .pre{
+    color:#ccc ;
+    margin-left: 20px;
+    margin-top: 5px;
+ }
+ .gast{
+
+    
+    height: 45px;
+    width: 140px;
+    margin-left: 125px;
+    margin-top: 8px;
+    background-color: #4bc932;
+    
+    color: rgb(255, 255, 255);
+    font-size: 19px;
+    border-radius: 7px;
+    border: #4bc932;
+
+ }
+ .cont .gast:hover{
+    background-color: #32be16;
+    cursor: pointer;
+ }
+ /**/
+ .fams{
+    margin-left: 459px;
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: 300px;
+    color: #000;
+    text-decoration: none;
+    
+}
+
+.fams:hover{
+    
+        
+    border-bottom:1px solid #000000 ;
+}
+.togo{
+    margin-left: 198px;
+    margin-top: -20px;
+}
+
+    
